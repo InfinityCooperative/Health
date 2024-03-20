@@ -1,6 +1,8 @@
+*{
+        text-align: center;
+    color: black;
 body{
     background-color: rgb(218, 241, 236);
-    text-align: center;
 }
 .cabeçalho{
     background-color: rgb(50, 250, 140);
