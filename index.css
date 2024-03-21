@@ -22,7 +22,7 @@ body{
     height: 200px;
 }
 .rodape{
-     background:url(imagens/remedios.png) center  center no-repeat fixed;
+     background:url(imagens/cabecalho.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
