@@ -6,7 +6,7 @@ body{
 }
 .cabecalho{
      margin: -10px -7px 0px -8px;
-     background:url(imagens/cabecalho.png) center  center no-repeat fixed;
+     background:url(imagens/farmacia.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -33,7 +33,7 @@ body{
 }
 .rodape{
     margin: 0px -7px -11px -8px;
-     background:url(imagens/cabecalho.png) center  center no-repeat fixed;
+     background:url(imagens/farmacia.avif) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
