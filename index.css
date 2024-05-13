@@ -4,7 +4,8 @@
 body{
     background-color: rgb(218, 241, 236);
 }
-.cabeçalho{
+.cabecalho{
+     margin: -10px -7px 0px -8px;
      background:url(imagens/cabecalho.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -13,7 +14,6 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    border-radius: 5px;
     height: auto;
 }
  .voltar{
@@ -32,12 +32,12 @@ body{
     height: 200px;
 }
 .rodape{
+    margin: 0px -7px -11px -8px;
      background:url(imagens/cabecalho.png) center  center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    border-radius: 5px;
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
