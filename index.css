@@ -50,6 +50,7 @@ body{
     height: auto;
 }
 .form{
+    background-color: darkcian;
     display: inline-grid;
     padding: 30px 60px;
     margin: 50px;
